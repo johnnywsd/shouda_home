@@ -8,10 +8,3 @@ Welcome
 
 I am Shouda Wang, a master student in Computer Science at `New York University <http://www.nyu.edu>`_
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-

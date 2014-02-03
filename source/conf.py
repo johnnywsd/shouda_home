@@ -290,7 +290,7 @@ html_theme_options = {
         ("Projects", "projects"),
         ("Contact", "contact"),
         ("About", "about"),
-        ("Link", "http://example.com", True),
+        #("Link", "http://example.com", True),
     ],
 
     # Render the next and previous page links in navbar. (Default: true)

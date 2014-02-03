@@ -27,7 +27,7 @@ Experience
 
     |emphasized hyperlink|_. **New York, NY   (Feb, 2012 -- present)**
 
-    .. |emphasized hyperlink| replace:: **Street of Wall, Inc**
+    .. |emphasized hyperlink| replace:: **Street of Walls, Inc**
     .. _emphasized hyperlink: http://www.streetofwalls.com
 
     *Software Development Intern*
