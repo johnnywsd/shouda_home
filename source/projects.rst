@@ -50,7 +50,7 @@ Email Follow Up
 ----------
 - It is the assignment of Computer Graphics
 - This course teach me how to build 3D computer graphics from the ground up. It  includes 3D modeling, animation, and rendering. At the end of the semester I can  built my own complete working real-time 3D computer graphics systems that runs in Java in web browsers.
-- `Source code <https://github.com/johnnywsd>`_
+- `Source code <https://github.com/johnnywsd/CG-Website>`_
 
 `My Flash Works <http://shoudawang.weebly.com/my-flash.html>`_
 ----------

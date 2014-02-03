@@ -94,7 +94,7 @@ Skills
 
 .. container:: sublist
     
-    * **Frameworks**: Django, Struct2, WordPress
+    * **Frameworks**: Django, Struct 2, WordPress
     * **Database**: MySQL, MongoDB
     * **Services**: Amazon Web Services
 
