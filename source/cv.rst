@@ -94,7 +94,7 @@ Skills
 
 .. container:: sublist
     
-    * **Frameworks**: Django, Struct 2, WordPress
+    * **Frameworks**: Django, Structs2, WordPress
     * **Database**: MySQL, MongoDB
     * **Services**: Amazon Web Services
 
@@ -120,4 +120,10 @@ Certification
     
      * **ID:** `130-224-140 <https://www.redhat.com/wapps/training/certification/verify.html?certNumber=130-224-140&isSearch=False&verify=Verify>`_
 
+.. container:: section
 
+    RHCE (Red Hat Certified Engineer)
+
+.. container:: sublist
+    
+     * **ID:** `130-224-140 <https://www.redhat.com/wapps/training/certification/verify.html?certNumber=130-224-140&isSearch=False&verify=Verify>`_

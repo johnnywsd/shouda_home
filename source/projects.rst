@@ -41,7 +41,7 @@ Email Follow Up
 - This is the final project of Open Source Tools, Fall 2013, NYU. It uses AWS EC2 as server, RDS as its database, S3 as its storage for static files. It also uses CloudFront to distribute its storage.
 - `Source code <https://github.com/johnnywsd/ostfinal>`_
 
-`My YouTube <https://github.com/johnnywsd/YFS>`_
+My YouTube
 ----------
 - This is the 2nd assignment of Cloud Computing, Fall 2013, NYU. It use AWS EC2 as server, RDS as it database, S3 as it storage for videos and other files. It also uses CloudFront to distribute its storage.
 
