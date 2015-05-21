@@ -6,5 +6,6 @@
 Welcome 
 =======================================
 
-I am Shouda Wang, a master student in Computer Science at `New York University <http://www.nyu.edu>`_
+I am Shouda Wang, a computer science graduate from `New York University <http://www.nyu.edu>`_
 
+Currently, I'm working as a Software Developer.

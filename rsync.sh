@@ -1,2 +1,2 @@
 #!/bin/bash
-rsync -avz -e ssh ./build/ cc4:~/website/shouda_home/
+rsync -aPhh ./build/html/ /home/johnny/workspace/johnnywsd.github.io
